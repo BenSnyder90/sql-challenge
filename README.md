@@ -10,7 +10,7 @@
 * Import SQL database into Pandas and create graphs from the data
 ---------
 ## Contents
-### EmployeeSQL/:
+### /EmployeeSQL/:
 Data Folder: 6 CSV files of various employee data tables\
 schema.sql: Table creation SQL file. Creates tables based on Entity Relationship Diagram\
 queries.sql: Query SQL file that runs 8 queries to examine data using various SQL functions\
