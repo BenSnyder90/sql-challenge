@@ -17,5 +17,6 @@ queries.sql: Query SQL file that runs 8 queries to examine data using various SQ
 emp_data.ipynb: Jupyter Notebook that imports data from SQL database and plots graphs based on the data\
 Data_ERD.png: Entity Relationship Diagram that shows Primary Key and Foreign Keys of the tables created in SQL
 
+![ER Diagram](EmployeeSQL/Data_ERD.PNG)
 ## Results
 Analysis located in queries.sql and emp_data.ipynb markdown
