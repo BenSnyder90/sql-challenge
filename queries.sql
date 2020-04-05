@@ -106,5 +106,5 @@ GROUP BY last_name
 ORDER BY "Last Name Count" DESC;
 --Returns 1638 lines
 
---View no longer needed
+--View no longer needed; can use DROP VIEW to get rid of it
 DROP VIEW emp_dep_list;
